@@ -1,3 +1,6 @@
 # Go-Nmap-gRPC
 Usage:  
-```azure make ./srvnetvuln ./clinetvuln
+```
+   azure make 
+   ./srvnetvuln 
+   ./clinetvuln
