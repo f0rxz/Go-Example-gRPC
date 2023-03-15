@@ -1,4 +1,4 @@
-# Go-Nmap-gRPC
+# Nmap-gRPC
 Usage:  
 ```
    azure make 
